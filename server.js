@@ -22,10 +22,10 @@ app.use(cors());
 app.use(json());
 
 const PROVIDERS = [
-  "https://vidsrc.xyz",
-  "https://vidsrc.in",
-  "https://vidsrc.pm",
-  "https://vidsrc.net",
+  "https://vidsrc.to",
+  "https://vidsrcme.ru",
+  "https://vidsrc-embed.ru",
+  "https://vsrc.su",
 ];
 
 export const LANGUAGE_NAMES = {
